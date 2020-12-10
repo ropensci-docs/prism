@@ -1,0 +1,10 @@
+pandoc: '2.5'
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  prism: prism.html
+last_built: 2021-04-20T03:51Z
+urls:
+  reference: https://docs.ropensci.org/prism/reference
+  article: https://docs.ropensci.org/prism/articles
+
