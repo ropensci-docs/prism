@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "ee4f42bf1f7bff49c1c124f202db22bc89858dcf",
+    "author": "Alan Butler <rabutler@usbr.gov>",
+    "time": "2023-12-04 20:58:45",
+    "files": 1,
+    "merge": false,
+    "message": "corrected for conduct file name\n"
+  },
+  "repo": "https://github.com/ropensci/prism",
+  "pkg": "prism"
+}
