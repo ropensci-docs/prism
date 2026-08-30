@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "876fe173ac4be162509fe3f79e38b119de56af30",
+    "author": "Butler <rabutler@usbr.gov>",
+    "time": "2025-11-18T22:18:16Z",
+    "files": 2,
+    "merge": false,
+    "message": "dev v0.3.0.9000\n"
+  },
+  "repo": "https://github.com/ropensci/prism",
+  "pkg": "prism",
+  "time": "2026-08-30T07:25:20Z"
+}
