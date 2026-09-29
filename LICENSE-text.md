@@ -1,0 +1,4 @@
+# License
+
+    YEAR: 2015
+    COPYRIGHT HOLDER: Edmund Hart and Kendon Bell
